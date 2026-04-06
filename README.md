@@ -1,4 +1,3 @@
-## Experiment Title
 Creating Two S3 Buckets and Uploading Objects using AWS Web Console
 ---
 
