@@ -39,18 +39,16 @@ To create two Amazon S3 buckets and upload files into them using AWS Management 
 * Select region
 * Create bucket
 
-  <img src="https://github.com/user-attachments/assets/7ba76c4d-e6f0-42a4-a54a-4d7c24009446" width="700"/>  
-
-<img src="https://github.com/user-attachments/assets/8041f38a-9201-4682-a880-fa08e73dd674" width="700"/>
+  <img src="https://github.com/user-attachments/assets/7ba76c4d-e6f0-42a4-a54a-4d7c24009446" width="700"/>
+  <img src="https://github.com/user-attachments/assets/8041f38a-9201-4682-a880-fa08e73dd674" width="700"/>
 
 ---
 
 ### Step 4: Create Second Bucket
 * Repeat same steps for second bucket
 
-  <img src="https://github.com/user-attachments/assets/304b1c11-3ed1-479d-a7b7-74e6588901ce" width="700"/>  
-
-<img src="https://github.com/user-attachments/assets/d3ad3702-4fe3-494a-a16e-fe34a3ba8185" width="700"/>
+  <img src="https://github.com/user-attachments/assets/304b1c11-3ed1-479d-a7b7-74e6588901ce" width="700"/>
+  <img src="https://github.com/user-attachments/assets/d3ad3702-4fe3-494a-a16e-fe34a3ba8185" width="700"/>
 
 ---
 
@@ -60,10 +58,9 @@ To create two Amazon S3 buckets and upload files into them using AWS Management 
 * Add file
 * Upload
 
-  <img src="https://github.com/user-attachments/assets/0ae3bc3b-554d-420e-90ff-8afe08b69312" width="700"/>  
-
-<img src="https://github.com/user-attachments/assets/f4fdfffb-88e9-467f-9869-29f5d8bd0004" width="700"/>  
-<img src="https://github.com/user-attachments/assets/b902e7a0-7748-44a9-8af9-731d1878409a" width="700"/>
+  <img src="https://github.com/user-attachments/assets/0ae3bc3b-554d-420e-90ff-8afe08b69312" width="700"/>
+  <img src="https://github.com/user-attachments/assets/f4fdfffb-88e9-467f-9869-29f5d8bd0004" width="700"/>
+  <img src="https://github.com/user-attachments/assets/b902e7a0-7748-44a9-8af9-731d1878409a" width="700"/>
 
 ---
 
@@ -71,10 +68,9 @@ To create two Amazon S3 buckets and upload files into them using AWS Management 
 * Open second bucket
 * Upload another file
 
-  <img src="https://github.com/user-attachments/assets/aaf4242f-aa65-4896-bc9a-1a6c7137691b" width="700"/>  
-
-<img src="https://github.com/user-attachments/assets/5f60303e-309c-498b-8079-1c88c3ed1c6f" width="700"/>  
-<img src="https://github.com/user-attachments/assets/f1e69352-174a-40f5-9efd-76a64b2cd046" width="700"/>
+  <img src="https://github.com/user-attachments/assets/aaf4242f-aa65-4896-bc9a-1a6c7137691b" width="700"/>
+  <img src="https://github.com/user-attachments/assets/5f60303e-309c-498b-8079-1c88c3ed1c6f" width="700"/>
+  <img src="https://github.com/user-attachments/assets/f1e69352-174a-40f5-9efd-76a64b2cd046" width="700"/>
 
 ---
 
